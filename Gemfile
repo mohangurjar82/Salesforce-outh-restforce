@@ -59,7 +59,7 @@ end
 
 gem 'high_voltage'
 
-gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'bootstrap', '~> 4.1.3'
 gem 'omniauth'
 gem 'omniauth-salesforce'
 gem 'restforce'
